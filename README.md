@@ -1,16 +1,22 @@
-## Hi there 👋
+ # Hey, I'm Radha Krishna Dhanishetti  
+*Cybersecurity Enthusiast | CEH Aspirant | Python Developer | SOC Analyst in the Making*
 
-<!--
-**rk1633/rk1633** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I’m an aspiring cybersecurity analyst with skills in:
 
-Here are some ideas to get you started:
+- Python, C Language
+- Wireshark, Nmap, Burp Suite
+- Linux basics, Networking, IDS/IPS
+- CEH Learning Path
+- IoT + Embedded Security (Smart Helmet Project)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 Current Focus
+- Learning CEH (Certified Ethical Hacker)
+- Uploading Python scripts & security tools
+- Building capture-the-flag (CTF) skills
+
+## 📂 Projects Coming Soon
+- IoT Smart Helmet (with crash detection)
+- Port Scanner in Python
+- Basic Keylogger (for ethical testing)
+
+Let’s secure the digital world!
